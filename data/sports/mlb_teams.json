@@ -10,7 +10,7 @@
       "division": "West"
     },
     {
-      "stadium": "Turner Field",
+      "stadium": "SunTrust Park",
       "city": "Atlanta",
       "state": "GA",
       "name": "Atlanta Braves",
@@ -42,7 +42,7 @@
       "division": "Central"
     },
     {
-      "stadium": "U.S. Cellular Field",
+      "stadium": "Guaranteed Rate Field",
       "city": "Chicago",
       "state": "IL",
       "name": "Chicago White Sox",
@@ -98,15 +98,15 @@
       "division": "Central"
     },
     {
-      "stadium": "Angel Stadium of Anaheim",
+      "stadium": "Angel Stadium",
       "city": "Anaheim",
       "state": "CA",
-      "name": "Los Angeles Angels of Anaheim",
+      "name": "Los Angeles Angels",
       "league": "American",
       "division": "West"
     },
     {
-      "stadium": "Dodger Stadium",
+      "stadium": "Dodgers Stadium",
       "city": "Los Angeles",
       "state": "CA",
       "name": "Los Angeles Dodgers",
@@ -146,7 +146,7 @@
       "division": "East"
     },
     {
-      "stadium": "Yankee Stadium",
+      "stadium": "Yankees Stadium",
       "city": "Bronx",
       "state": "NY",
       "name": "New York Yankees",
